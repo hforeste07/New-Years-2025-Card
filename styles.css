@@ -14,12 +14,12 @@ h1, h2, h3, h4, p {
 #bff-img {
     width: 150px;
     border-radius: 50%;
-    border: 6px solid #EFB0C9;
+    border: 6px solid: grey;
     margin-bottom: 10px;
 }
 
 #goodbye {
-    background: #EFB0C9;
+    background: grey;
     padding: 5px 10px;
     border-radius: 5px;
     margin: 5px 0 10px 0;
@@ -27,7 +27,7 @@ h1, h2, h3, h4, p {
 
 #hello {
     margin: 0;
-    background: #EFB0C9;
+    background: grey;
     padding: 5px 10px;
     border-radius: 5px;
 }
