@@ -2,8 +2,9 @@
 body {
     text-align: center;
     font-family: 'Happy Monkey', cursive;
-    background: #a2d2ff;
-    color: #ffffff;
+    background: rgb(0,0,0);
+    background: linear-gradient(0deg, rgba(0,0,0,1) 33%, rgba(255,255,255,1) 100%);
+    color: goldenrod;
 }
 
 h1, h2, h3, h4, p {
