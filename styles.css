@@ -75,6 +75,9 @@ h1, h2, h3, h4, p {
     background-image: url("images/bean.jpg");
 }
 
+#ai{
+    width: 600px;
+}
 #gift-img-ai{
     background-image: url("images/sparklers-many.jpg");
     background-size: cover;
