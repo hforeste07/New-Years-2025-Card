@@ -19,7 +19,6 @@ h1, h2, h3, h4, p {
 }
 
 #goodbye {
-    background: grey;
     padding: 5px 10px;
     border-radius: 5px;
     margin: 5px 0 10px 0;
@@ -27,7 +26,6 @@ h1, h2, h3, h4, p {
 
 #hello {
     margin: 0;
-    background: grey;
     padding: 5px 10px;
     border-radius: 5px;
 }
@@ -48,10 +46,6 @@ h1, h2, h3, h4, p {
 
 .gift-hint {
     margin-top: 0;
-}
-
-#gift-img-cheers {
-    height: 400px;
 }
 
 .gift-img {
@@ -81,17 +75,17 @@ h1, h2, h3, h4, p {
     background-image: url("images/bean.jpg");
 }
 
-#gift-img-battlestar-g{
+#gift-img-ai{
     background-image: url("images/sparklers-many.jpg");
     background-size: cover;
 }
 
-#gift-img-battlestar-g:hover {
-    background-image: url("gifs/battlestarg-g.webp")
+#gift-img-ai:hover {
+    background-image: url("gifs/battlestar-g.webp")
 }
 
 #gift-img-t-swift{
-    background-image: url("images/sparklers-trampoline.jpg");
+    background-image: url("images/sparkler-trampoline.jpg");
     background-size: cover;
 }
 
