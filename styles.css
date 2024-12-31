@@ -77,9 +77,11 @@ h1, h2, h3, h4, p {
 
 #ai{
     width: 600px;
+    margin: 0 auto;
 }
 #gift-img-ai{
     background-image: url("images/sparklers-many.jpg");
+    width: 600px;
     background-size: cover;
 }
 
