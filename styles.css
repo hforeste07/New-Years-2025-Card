@@ -81,7 +81,7 @@ h1, h2, h3, h4, p {
 }
 
 #gift-img-ai:hover {
-    background-image: url("gifs/battlestar-g.webp")
+    background-image: url("gifs/battlestar-g.webp");
 }
 
 #gift-img-t-swift{
